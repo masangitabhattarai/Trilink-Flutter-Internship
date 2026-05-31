@@ -141,6 +141,9 @@ task 4
 <img width="333" height="699" alt="image" src="https://github.com/user-attachments/assets/5c7df9d1-abef-4bd7-93e5-b852aaa948e2" />
 
 
+## 📱 Download APK
+You can download the compiled APK to test the application directly on your device:
+- [Download App APK](https://drive.google.com/file/d/17M549JXSI8SdcmVbhZ23DYzAHuoMUDZe/view?usp=sharing)
 
 
 
