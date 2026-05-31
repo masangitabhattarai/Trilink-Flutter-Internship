@@ -127,3 +127,21 @@ lib/
 
 *© Trilink IT Solution Pvt Ltd — https://trilinkitsolution.com.np*
 
+screenshort of task
+task 
+<img width="328" height="681" alt="image" src="https://github.com/user-attachments/assets/3104ef21-9f8d-4eb6-a1f2-e820a90c3b2b" />
+task 1
+<img width="327" height="697" alt="image" src="https://github.com/user-attachments/assets/6efb63b1-e4ae-4fc8-b5ed-ba1726432cb4" />
+task 2
+<img width="319" height="647" alt="image" src="https://github.com/user-attachments/assets/19f7b246-38bd-484b-b706-3205e35f1045" />
+task 3
+<img width="326" height="689" alt="image" src="https://github.com/user-attachments/assets/9a028010-dca4-426d-9c81-3bdca47a5629" />
+task 4
+
+<img width="333" height="699" alt="image" src="https://github.com/user-attachments/assets/5c7df9d1-abef-4bd7-93e5-b852aaa948e2" />
+
+
+
+
+
+
